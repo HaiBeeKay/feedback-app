@@ -1,15 +1,43 @@
 {
   "files": {
-    "main.css": "/static/css/main.baca074d.css",
-    "main.js": "/static/js/main.115a7c60.js",
-    "static/js/787.ed5dd030.chunk.js": "/static/js/787.ed5dd030.chunk.js",
+    "main.css": "/static/css/main.c051c70a.css",
+    "main.js": "/static/js/main.e7cd7d94.js",
+    "static/js/787.f3deb2af.chunk.js": "/static/js/787.f3deb2af.chunk.js",
+    "static/media/background3.jpg": "/static/media/background3.aeee951d055c6ef709e1.jpg",
+    "static/media/background9.jpg": "/static/media/background9.e9fc0b1c3364adaa35e7.jpg",
+    "static/media/Carousel 2.jpg": "/static/media/Carousel 2.4678ac8d71434d395b54.jpg",
+    "static/media/background5.jpg": "/static/media/background5.d5f561c3be5921de15a5.jpg",
+    "static/media/background6.jpg": "/static/media/background6.69d49d1c51917e5303a0.jpg",
+    "static/media/background8.jpg": "/static/media/background8.e4120630e5830b85e0aa.jpg",
+    "static/media/background2.jpg": "/static/media/background2.01c7f03cbd361ba4b597.jpg",
+    "static/media/background7.jpg": "/static/media/background7.a3f1491d10c9d137f17a.jpg",
+    "static/media/background4.jpg": "/static/media/background4.cfa98293b3724fdadca2.jpg",
+    "static/media/background.jpg": "/static/media/background.762a88247e5320b923cf.jpg",
+    "static/media/Carousel 4.jpg": "/static/media/Carousel 4.1a54f1d2d1c519ceaf94.jpg",
+    "static/media/meta.jpg": "/static/media/meta.6fca04e1ca8273be9c11.jpg",
+    "static/media/Carousel 3.jpg": "/static/media/Carousel 3.18fdddcfd648ffdf3703.jpg",
+    "static/media/Carousel 1.png": "/static/media/Carousel 1.17a5bed58749a1740d57.png",
+    "static/media/logo3-removebg-preview.png": "/static/media/logo3-removebg-preview.06075767cce944fb45e1.png",
+    "static/media/silver-star.png": "/static/media/silver-star.ea79ce9224d28325d2f7.png",
+    "static/media/bronze-Star.png": "/static/media/bronze-Star.b4a04fef5a36b62f29f5.png",
+    "static/media/metaverse6.jpeg": "/static/media/metaverse6.548824216343e4d91c61.jpeg",
+    "static/media/coin1.ico": "/static/media/coin1.c6d6c345a53e680a69d1.ico",
+    "static/media/paymentRecordIcon.svg": "/static/media/paymentRecordIcon.8c57371dc487197259f8b2eb67d1c84a.svg",
+    "static/media/bankInfoIcon.svg": "/static/media/bankInfoIcon.25bd66e99656f9b6dcca216807f7cfe2.svg",
+    "static/media/logoutIcon.svg": "/static/media/logoutIcon.51f5b920da9d1c9a38f457ec98733f32.svg",
+    "static/media/telegramIcon.svg": "/static/media/telegramIcon.5962a2b9212280457f3a4011b650b0e7.svg",
+    "static/media/tokenIcon.svg": "/static/media/tokenIcon.2535db771a0c9bf8f96076e804d5dd4d.svg",
+    "static/media/walletIcon.svg": "/static/media/walletIcon.05dc2b2aa721945e791ae35829783345.svg",
+    "static/media/customerServiceIcon.svg": "/static/media/customerServiceIcon.95ef020019908fee3977fb05d10d3204.svg",
     "index.html": "/index.html",
-    "main.baca074d.css.map": "/static/css/main.baca074d.css.map",
-    "main.115a7c60.js.map": "/static/js/main.115a7c60.js.map",
-    "787.ed5dd030.chunk.js.map": "/static/js/787.ed5dd030.chunk.js.map"
+    "static/media/aboutIcon.svg": "/static/media/aboutIcon.75849f30aa6c5b881caf91aaa47b568f.svg",
+    "static/media/keyboardArrowRightIcon.svg": "/static/media/keyboardArrowRightIcon.4a1a6c7e1536900466057f68bd0d4411.svg",
+    "main.c051c70a.css.map": "/static/css/main.c051c70a.css.map",
+    "main.e7cd7d94.js.map": "/static/js/main.e7cd7d94.js.map",
+    "787.f3deb2af.chunk.js.map": "/static/js/787.f3deb2af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.baca074d.css",
-    "static/js/main.115a7c60.js"
+    "static/css/main.c051c70a.css",
+    "static/js/main.e7cd7d94.js"
   ]
 }
